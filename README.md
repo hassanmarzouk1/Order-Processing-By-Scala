@@ -39,8 +39,8 @@ Project/
 │   │   │           └── Parser.scala             # Parsing and date validation
 │   └── resources/
 │       ├── TRX1000.csv                          # Sample order data
-│       ├── rule_engine new requirements.pdf     # Rules used in the project
-│       └── Scala Project.pdf                    # Documentation
+│       ├── rule_engine new requirements.pdf     # Extra Rules used in the project
+│       └── Scala Project.pdf                    # Project Specs
 ```
 
 ---

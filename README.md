@@ -63,6 +63,8 @@ Project/
 
 2. **Clone & Run the Project**
    ```bash
+   git clone https://github.com/hassanmarzouk1/Order-Processing-By-Scala/
+   cd Order-Processing-By-Scala
    sbt run
    ```
 
